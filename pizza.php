@@ -26,7 +26,7 @@ if (empty($_GET['ingr'])) {
 }
 
 echo "<br>";
-echo "Autor: rabori" . "<br>";
+echo "Autor: rabori versio2" . "<br>";
 ?>
 </body>
 </html>
